@@ -69,7 +69,7 @@ const swiper = new Swiper('.swiper', {
 		clickable: true,
 		
 	 },
-
+		slidePrevClass: 'foto-slide-prev',
 	 	slideActiveClass: 'foto-slide-active',
 	 	slideNextClass: 'foto-slide-next',
 
